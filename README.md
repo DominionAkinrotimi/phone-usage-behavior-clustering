@@ -28,9 +28,8 @@ This project explores mobile phone usage behavior across different age groups us
 ## 📁 Project Structure
 
 📦 **phone-usage-behavior-clustering**  
-┣ 📂 [notebooks/](./notebooks) – Jupyter notebooks for EDA and modeling  
 ┣ 📂 [models/](./models) – Saved models (.pkl files)  
-┣ 📂 [data/](./data) – Dataset (CSV)  
+┣ 📂 [data/](./user_behavior_dataset.csv) – Dataset (CSV)  
 ┣ 📜 [README.md](./README.md) – Project overview  
 ┣ 📜 [requirements.txt](./requirements.txt) – Dependencies  
 ┗ 📜 [phone_behavior_analysis.ipynb](./phone_behavior_analysis.ipynb) – Main analysis notebook  
