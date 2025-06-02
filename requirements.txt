@@ -5,3 +5,4 @@ pandas==2.0.3
 scipy==1.10.1
 matplotlib==3.7.5
 seaborn
+python==3.8.8
