@@ -13,8 +13,8 @@ features = [
 
 @st.cache_resource
 def load_models():
-    dt_model = joblib.load('decision_tree_model.pkl')
-    rf_model = joblib.load('random_forest_model.pkl')
+    dt_model = joblib.load('models/decision_tree_model.pkl')
+    rf_model = joblib.load('models/random_forest_model.pkl')
     return dt_model, rf_model
 
 def main():
