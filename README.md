@@ -28,12 +28,12 @@ This project explores mobile phone usage behavior across different age groups us
 ## 📁 Project Structure
 
 📦 **phone-usage-behavior-clustering**  
-┣ 📂 [models/](./models) – Saved models (.pkl files)  
-┣ 📂 [data/](./user_behavior_dataset.csv) – Dataset (CSV)  
-┣ 📜 [Sreamlit app code](./app.py) – Streamlit User Interface
-┣ 📜 [README.md](./README.md) – Project overview  
-┣ 📜 [requirements.txt](./requirements.txt) – Dependencies  
-┗ 📜 [phone_behavior_analysis.ipynb](./phone_behavior_analysis.ipynb) – Main analysis notebook  
+├── 📂 [models/](./models) – Saved models (.pkl files)  
+├── 📂 [data/](./user_behavior_dataset.csv) – Dataset (CSV)  
+├── 📜 [Streamlit app code](./app.py) – Streamlit User Interface  
+├── 📜 [README.md](./README.md) – Project overview  
+├── 📜 [requirements.txt](./requirements.txt) – Dependencies  
+└── 📜 [phone_behavior_analysis.ipynb](./phone_behavior_analysis.ipynb) – Main analysis notebook  
 
 
 ## 📌 Getting Started
