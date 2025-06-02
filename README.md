@@ -41,9 +41,11 @@ This project explores mobile phone usage behavior across different age groups us
 1. Clone the repo  
    ```bash
    git clone https://github.com/yourusername/phone-usage-behavior-clustering.git
+   ```
 2. Install dependencies
 ```bash
   pip install -r requirements.txt
+```
 3. Run the notebook
 Open phone_behavior_analysis.ipynb in Jupyter and follow the cells step by step.
 
