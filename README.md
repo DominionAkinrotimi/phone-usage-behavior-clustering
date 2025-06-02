@@ -27,13 +27,13 @@ This project explores mobile phone usage behavior across different age groups us
 
 ## 📁 Project Structure
 
-📦phone-usage-behavior-clustering/
-┣ 📂notebooks/ # Jupyter notebooks for EDA and modeling
-┣ 📂models/ # Saved models (.pkl files)
-┣ 📂data/ # Dataset (CSV)
-┣ 📜README.md # Project overview
-┣ 📜requirements.txt # Dependencies
-┗ 📜phone_behavior_analysis.ipynb
+📦 **phone-usage-behavior-clustering**  
+┣ 📂 [notebooks/](./notebooks) – Jupyter notebooks for EDA and modeling  
+┣ 📂 [models/](./models) – Saved models (.pkl files)  
+┣ 📂 [data/](./data) – Dataset (CSV)  
+┣ 📜 [README.md](./README.md) – Project overview  
+┣ 📜 [requirements.txt](./requirements.txt) – Dependencies  
+┗ 📜 [phone_behavior_analysis.ipynb](./phone_behavior_analysis.ipynb) – Main analysis notebook  
 
 
 ## 📌 Getting Started
@@ -62,4 +62,5 @@ Pull requests and suggestions are welcome! Feel free to fork this repository and
 
 ## 📬 Contact
 For questions or collaborations, reach out to me on X: https://x.com/ADominion76816
+
 License: MIT
